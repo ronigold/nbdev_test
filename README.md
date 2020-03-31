@@ -1,5 +1,5 @@
-# Project name here
-> Summary description here. roni
+# OptimalPlus DS 
+> Summary description here.
 
 
 This file will become your README and also the index of your documentation.
@@ -10,7 +10,7 @@ This file will become your README and also the index of your documentation.
 
 ## How to use
 
-hi nechami
+Here you can write down the requirements and description of the project straight from the notebook!
 
 ```python
 1+1+1
