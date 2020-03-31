@@ -10,15 +10,15 @@ This file will become your README and also the index of your documentation.
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
+hi nechami
 
 ```python
-1+1
+1+1+1
 ```
 
 
 
 
-    2
+    3
 
 
